@@ -969,8 +969,8 @@ ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK83>1 AND SK79>1) !SOCK=1]: %DGREEN%%NAME
 ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK83>1 AND SK91>1) !SOCK=1]: %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
 
 //non-magic wands with +3 to teeth, bone spear, or desecrate
-ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK67>2 OR SK83>2 OR SK84>2) SOCK=2]: %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
-ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK67>2 OR SK83>2 OR SK84>2) SOCK=0]: %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
+ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK67>2 OR SK83>0 OR SK84>2) SOCK=2]: %PURPLE%%NAME% %PURPLE%[%SOCKETS%]
+ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK67>2 OR SK83>0 OR SK84>2) SOCK=0]: %PURPLE%%NAME% %PURPLE%[%SOCKETS%]
 
 //non-magic shrunken heads with 3 skills
 ItemDisplay[CL4 NMAG (SK95>0 AND SK85>0 AND SK74>1) !SOCK=1]: %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
